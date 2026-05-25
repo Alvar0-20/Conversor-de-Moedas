@@ -7,13 +7,14 @@
 }
 
 body {
-  background: linear-gradient(90deg, #ff0000, #0d0d0d, #0076a8);
+  background: url('./assets/fundo-convert.png') no-repeat center center;
+  background-size: cover;
 }
 
 .logo {
   display: block;
   width: 300px;
-  height: 300px;
+  height: auto;
   margin: 20px auto;
 }
 
